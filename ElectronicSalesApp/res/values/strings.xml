@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ElectronicSalesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="userNameHint">Enter your name</string>
+    <string name="userPassHint">Enter your password</string>
+    <string name="loginBtn">Login</string>
+    <string name="title_activity_region_nlocation">RegionNLocation</string>
+    <string name="regionNLocLabel">Select the Region and Location of order</string>
+
+    <string-array name="defaultArr">
+        <item>Select</item>
+    </string-array>
+    <string-array name="regionArray">
+        <item>Mumbai: Western</item>
+        <item>Mumbai: Central</item>
+        <item>Mumbai: South</item>
+        <item>Navi Mumbai</item>
+    </string-array>
+    <string-array name="MumbaiWesternArray">
+        <item>Borivali</item>
+        <item>Andheri</item>
+        <item>Dahisar</item>
+        <item>Goregaon</item>
+        <item>Juhu</item>
+        <item>Bandra</item>
+    </string-array>
+    <string-array name="MumbaiCentralArray">
+        <item>Kurla</item>
+        <item>Chembur</item>
+        <item>Ghatkoper</item>
+        <item>Mulund</item>
+        <item>Powai</item>
+    </string-array>
+    <string-array name="MumbaiSouthArray">
+        <item>Nariman Point</item>
+        <item>Colaba</item>
+        <item>Dadar</item>
+        <item>Worli</item>
+        <item>Parel</item>
+    </string-array>
+    <string-array name="NaviMumbaiArr">
+        <item>Airoli</item>
+        <item>Rabale</item>
+        <item>Vashi</item>
+        <item>Belapur</item>
+        <item>Kharghar</item>
+        <item>Panvel</item>
+    </string-array>
+
+    <string name="title_activity_order_details">OrderDetails</string>
+
+    <string-array name="westernVendor">
+        <item>Manish Electronics</item>
+        <item>Meera Electronics</item>
+    </string-array>
+    <string-array name="centralVendor">
+        <item>Kapoor and Sons Hardware</item>
+        <item>Global Splash Electronics</item>
+    </string-array>
+    <string-array name="southVendor">
+        <item>Satellite Store</item>
+        <item>Doerr Enterprises</item>
+    </string-array>
+    <string-array name="naviMumVendor">
+        <item>KGP Telecommunications</item>
+        <item>Retail Management Solutions</item>
+    </string-array>
+    <string-array name="productList1">
+        <item>Select</item>
+        <item>Security Device (Rs.3000)</item>
+        <item>Headphones (Rs.1200)</item>
+        <item>Speaker (Rs.1500)</item>
+    </string-array>
+    <string-array name="productList2">
+        <item>Select</item>
+        <item>Usha celing fan(Rs.2500)</item>
+        <item>Air Cooler (Rs.2500)</item>
+        <item>Hitachi AC (Rs.25000)</item>
+    </string-array>
+    <string-array name="productList3">
+        <item>Select</item>
+        <item>HP LaserJet Printer (Rs.15000)</item>
+        <item>Panasonic Fax machine(Rs.7000)</item>
+        <item>Lenovo Laptop(Rs.32000)</item>
+    </string-array>
+
+    <string name="qty">Enter Qty</string>
+    <string name="orderPlaced">Order Placed</string>
+    <string name="orderCancelled">Order Cancelled</string>
+    <string name="selectVendor">Select Vendor</string>
+    <string name="selectProd">Select Products</string>
+    <string name="title_activity_order_placed">OrderPlaced</string>
+    <string name="newOrder">New Order</string>
+    <string name="cash">Cash </string>
+    <string name="credit">Credit (Upto 15 days)</string>
+    <string name="totalAmt">Total Amont: </string>
+    <string name="discount">10 % Discount on cash</string>
+    <string name="save">Save</string>
+    <string name="title_activity_logout">Logout</string>
+    <string name="title_activity_order_cancelled">OrderCancelled</string>
+
+    <string name="orderCancelReason">Reason for order cancellation</string>
+</resources>
