@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JobSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="userNameHint">Enter your name</string>
+    <string name="userPassHint">Enter your password</string>
+    <string name="loginBtn">Login</string>
+    <string name="title_activity_job_search_by_title">JobSearchByTitle</string>
+	<string name="jobsearch">Job search</string>
+	<string name="jobsTitle">Enter job title</string>
+	<string name="submitBtn">Submit</string>
+</resources>
